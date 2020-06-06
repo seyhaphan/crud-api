@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/seyhaphan/crud-api.git/static/css/main.44f0b5e6.chunk.css",
+    "main.js": "/seyhaphan/crud-api.git/static/js/main.866627c0.chunk.js",
+    "main.js.map": "/seyhaphan/crud-api.git/static/js/main.866627c0.chunk.js.map",
+    "runtime-main.js": "/seyhaphan/crud-api.git/static/js/runtime-main.0feab943.js",
+    "runtime-main.js.map": "/seyhaphan/crud-api.git/static/js/runtime-main.0feab943.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/seyhaphan/crud-api.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.70299b6a.chunk.js": "/seyhaphan/crud-api.git/static/js/2.70299b6a.chunk.js",
+    "static/js/2.70299b6a.chunk.js.map": "/seyhaphan/crud-api.git/static/js/2.70299b6a.chunk.js.map",
+    "index.html": "/seyhaphan/crud-api.git/index.html",
+    "precache-manifest.d0f670a012f4d553a00c3a3bf8e8fcca.js": "/seyhaphan/crud-api.git/precache-manifest.d0f670a012f4d553a00c3a3bf8e8fcca.js",
+    "service-worker.js": "/seyhaphan/crud-api.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/seyhaphan/crud-api.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.44f0b5e6.chunk.css.map": "/seyhaphan/crud-api.git/static/css/main.44f0b5e6.chunk.css.map",
+    "static/js/2.70299b6a.chunk.js.LICENSE.txt": "/seyhaphan/crud-api.git/static/js/2.70299b6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0feab943.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.70299b6a.chunk.js",
+    "static/css/main.44f0b5e6.chunk.css",
+    "static/js/main.866627c0.chunk.js"
+  ]
+}
